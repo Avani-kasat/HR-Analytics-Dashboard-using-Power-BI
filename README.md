@@ -11,6 +11,8 @@
 The HR Analytics Employee Attrition Dashboard is a comprehensive data visualization tool designed to analyze and understand employee attrition patterns within an organization. By leveraging Power BI's powerful visualization capabilities, this dashboard provides HR professionals and organizational leaders with actionable insights to address employee turnover and retention challenges effectively.
 
 ## Screenshots
+<img width="500" alt="image" src="https://github.com/Avani-kasat/HR-Analytics-Employee-Attrition-Dashboard--Power-BI/assets/153104989/eb10e163-0077-4d44-9d7d-ac07033004ab">
+
 <img width="500" alt="image" src="https://github.com/Avani-kasat/HR-Analytics-Employee-Attrition-Dashboard--Power-BI/assets/153104989/2d284aeb-d194-46d3-8fb3-1cb19c68c04e">
 
 <img width="503" alt="image" src="https://github.com/Avani-kasat/HR-Analytics-Employee-Attrition-Dashboard--Power-BI/assets/153104989/d4083d78-14bd-459b-85ee-05447e32910f">
